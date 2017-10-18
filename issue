@@ -1,0 +1,11 @@
+I just want to ask you some question,
+but I can't find another way,
+So I did like this, sorry.
+
+first, Thank you for saving the project form old version.
+
+but I still have some problem.
+clang::InitializePreprocessor( preprocessor, po, pchContainerReader, frontendOptions);
+everytime I run after this line, an error will occurred.
+
+And witch the version of clang you use?
